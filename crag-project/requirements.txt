@@ -1,0 +1,28 @@
+streamlit
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+python-dotenv
+pydantic
+aiosqlite
+
+
+langchain-tavily
+
+langgraph-checkpoint-sqlite
+# For FAISS Vector Store
+faiss-cpu
+
+# For PyPDFLoader
+pypdf
+
+# For Tavily Search API
+tavily-python
+
+langchain-google-genai
+
+
+langchain-huggingface 
+sentence-transformers

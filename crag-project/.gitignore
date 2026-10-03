@@ -1,0 +1,12 @@
+# --- Virtual Environments ---
+venv/
+.env
+
+# --- Database Files (SQLite & Temporary Wal/Shm files) ---
+crag_chatbot.db
+crag_chatbot.db-shm
+crag_chatbot.db-wal
+
+# --- Python Bytecode Caches ---
+__pycache__/
+**/__pycache__/
